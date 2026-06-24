@@ -13,11 +13,11 @@ Aplikasi kasir berbasis web yang **gratis, ringan, dan bisa dipakai tanpa intern
 
 | Layar PIN | Halaman Kasir |
 |---|---|
-| ![PIN](docs/tutorial_01_layar-pin.png) | ![Kasir](docs/tutorial_02_halaman-kasir.png) |
+| ![PIN](docs/screenshot/tutorial_01_layar-pin.png) | ![Kasir](docs/screenshot/tutorial_02_halaman-kasir.png) |
 
 | Halaman Katalog | Halaman Laporan |
 |---|---|
-| ![Katalog](docs/tutorial_03_halaman-katalog.png) | ![Laporan](docs/tutorial_04_halaman-laporan.png) |
+| ![Katalog](docs/screenshot/tutorial_03_halaman-katalog.png) | ![Laporan](docs/screenshot/tutorial_04_halaman-laporan.png) |
 
 ---
 
