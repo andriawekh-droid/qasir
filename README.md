@@ -1,4 +1,4 @@
-# 🛒 Kasir Kedai — Aplikasi POS Gratis untuk UMKM
+# 🛒 qasir — Aplikasi POS Gratis untuk UMKM
 
 ![Versi](https://img.shields.io/badge/versi-1.0.0-orange)
 ![Lisensi](https://img.shields.io/badge/lisensi-MIT-green)
