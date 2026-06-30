@@ -285,7 +285,7 @@
         function filterKategori(kategori) {
             kategoriFilterAktif = kategori;
             halamanKasirAktif = 1;
-            const buttons = ['Semua', 'Makanan', 'Minuman', 'Snack'];
+            const buttons = ['Semua', 'Makanan', 'Minuman', 'Snack', 'Dessert', 'Lainnya'];
             buttons.forEach(btn => {
                 const el = document.getElementById(`filterBtn-${btn}`);
                 if (el) {
