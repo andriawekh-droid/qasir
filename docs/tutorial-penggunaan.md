@@ -1,6 +1,6 @@
-# 📖 Tutorial Penggunaan — Kasir Kedai
+# 📖 Tutorial Penggunaan — qasir
 
-Panduan lengkap cara menggunakan aplikasi **Kasir Kedai** dari awal hingga akhir transaksi.
+Panduan lengkap cara menggunakan aplikasi **qasir** dari awal hingga akhir transaksi.
 
 ---
 
