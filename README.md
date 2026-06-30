@@ -41,7 +41,7 @@ Lihat panduan lengkap di [`docs/tutorial-instalasi.md`](docs/tutorial-instalasi.
 **Singkatnya:**
 1. Unduh atau clone repository ini
 2. Taruh semua file dalam satu folder
-3. Buka `kasir.html` di browser
+3. Buka `kasir.html` di browser atau `kasir-mobile.html` kalau menggunakan HP/Tablet
 4. Masukkan PIN default: **`1234`**
 
 > Tidak butuh Node.js, server, atau koneksi internet permanen.
@@ -59,6 +59,7 @@ Lihat panduan lengkap di [`docs/tutorial-penggunaan.md`](docs/tutorial-penggunaa
 ```
 kasir-kedai/
 ├── kasir.html          # Halaman utama aplikasi
+├── kasir-mobile.html   # Halaman utama aplikasi khusus HP/Tablet
 ├── kasir.css           # Stylesheet (dark theme + custom)
 ├── kasir.js            # Logika aplikasi
 ├── sw.js               # Service worker (offline support)
